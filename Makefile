@@ -4,11 +4,11 @@ install:
 	mkdir -p $(DESTDIR)/usr/share/fonts/opentype
 	cp --no-preserve=mode,ownership -r \
 		fira \
-		$(DESTDIR)/usr/share/icons/opentype
+		$(DESTDIR)/usr/share/fonts/opentype
 	mkdir -p $(DESTDIR)/usr/share/fonts/truetype
 	cp --no-preserve=mode,ownership -r \
 		roboto-slab \
-		$(DESTDIR)/usr/share/icons/truetype
+		$(DESTDIR)/usr/share/fonts/truetype
 
 uninstall:
 	-rm -rf $(DESTDIR)/usr/share/fonts/opentype/fira
