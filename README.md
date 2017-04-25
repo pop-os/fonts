@@ -17,6 +17,7 @@ Both are included for wasy installation with the Pop Themes
 
 ## Installation
 
+### From Archive
 You can install the fonts on Ubuntu-based OSs through our PPA. All components of the Pop look and feel can be installed using:
 ```
 sudo apt-add-repository paa:system76-dev/stable
@@ -28,3 +29,14 @@ You can also install components individually:
 ```
 sudo apt install system76-pop-fonts
 ```
+
+### From Github
+Clone this repo, then use the following command to install the fonts system-wide:
+```
+sudo make install
+```
+*Note, a separate `./configure` and `make` are not required.
+
+You can also copy the `fira/` and `/roboto-slab` folders into your user's local font folder, typically `~/.local/share/fonts/`. 
+
+You may need to log out and log back in for any changes to take effect.
