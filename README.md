@@ -14,3 +14,17 @@ Both are included for wasy installation with the Pop Themes
  > Interface: Fira Sans Book 10
  > Documents: Roboto Slab Regular 11
  > Monospace: Fira Mono Regular 11
+
+## Installation
+
+You can install the fonts on Ubuntu-based OSs through our PPA. All components of the Pop look and feel can be installed using:
+```
+sudo apt-add-repository paa:system76-dev/stable
+sudo apt update
+sudo apt install system76-pop-theme
+```
+
+You can also install components individually:
+```
+sudo apt install system76-pop-fonts
+```
