@@ -11,9 +11,13 @@ Both are included for wasy installation with the Pop Themes
 - Theme: [Pop GTK Theme](https://github.com/system76/pop-gtk-theme)
 - For fonts, use: 
  > Window Titles: Fira Sans SemiBold 10
+ 
  > Interface: Fira Sans Book 10
+ 
  > Documents: Roboto Slab Regular 11
+ 
  > Monospace: Fira Mono Regular 11
+ 
 
 ## Installation
 
