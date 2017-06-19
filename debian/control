@@ -1,4 +1,4 @@
-Source: system76-pop-fonts
+Source: pop-fonts
 Section: gnome
 Priority: optional
 Maintainer: Jeremy Soller <jeremy@system76.com>
@@ -7,6 +7,6 @@ Build-Depends: debhelper (>= 9)
 Standards-Version: 3.9.8
 Homepage: https://github.com/system76/pop-fonts
 
-Package: system76-pop-fonts
+Package: pop-fonts
 Architecture: all
-Description: System76 Pop Fonts
+Description: Pop Fonts

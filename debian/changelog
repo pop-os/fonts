@@ -1,10 +1,16 @@
-system76-pop-fonts (1.0.1) zesty; urgency=medium
+pop-fonts (1.0.2) zesty; urgency=medium
+
+  * Rename to pop-fonts
+
+ -- Jeremy Soller <jeremy@system76.com>  Mon, 19 Jun 2017 11:36:00 -0600
+
+pop-fonts (1.0.1) zesty; urgency=medium
 
   * Fix build error
 
  -- Jeremy Soller <jeremy@system76.com>  Fri, 21 Apr 2017 13:48:48 -0600
 
-system76-pop-fonts (1.0.0) zesty; urgency=medium
+pop-fonts (1.0.0) zesty; urgency=medium
 
   * First release
 
