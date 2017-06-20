@@ -24,7 +24,7 @@ Both are included for wasy installation with the Pop Themes
 ### From Archive
 You can install the fonts on Ubuntu-based OSs through our PPA. All components of the Pop look and feel can be installed using:
 ```
-sudo apt-add-repository paa:system76/pop
+sudo apt-add-repository ppa:system76/pop
 sudo apt update
 sudo apt install pop-theme
 ```
