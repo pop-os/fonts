@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/system76/pop-fonts/raw/master/Pop_fonts-logo.png" alt="preview"/>
+</p>
+
 ## Fonts for System76
 
 System76 primarily uses two fonts, Fira and Roboto Slab. 
