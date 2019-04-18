@@ -6,7 +6,7 @@
 
 System76 primarily uses two fonts, Fira and Roboto Slab. 
 
-Both are included for wasy installation with the Pop Themes
+Both are included for easy installation with the Pop Themes
 
 
 ### Recommendations
