@@ -11,8 +11,8 @@ Both are included for easy installation with the Pop Themes
 
 ### Recommendations
 
-- Icons: [Pop Icon Theme](https://github.com/system76/pop-icon-theme)
-- Theme: [Pop GTK Theme](https://github.com/system76/pop-gtk-theme)
+- Icons: [Pop Icon Theme](https://github.com/pop-os/icon-theme)
+- Theme: [Pop GTK Theme](https://github.com/pop-os/gtk-theme)
 - For fonts, use: 
  > Window Titles: Fira Sans SemiBold 10
  
