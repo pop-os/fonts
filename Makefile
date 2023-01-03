@@ -9,6 +9,7 @@ install:
 	cp --no-preserve=mode,ownership -r \
 		roboto-slab \
 		$(DESTDIR)/usr/share/fonts/truetype
+	fc-cache -f -v
 
 uninstall:
 	-rm -rf $(DESTDIR)/usr/share/fonts/opentype/fira
